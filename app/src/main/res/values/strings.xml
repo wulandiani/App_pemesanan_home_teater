@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tugas8wulandiani</string>
+    <string-array name="Ruangan">
+        <item>Ruangan 1</item>
+        <item>Ruangan 2</item>
+        <item>Ruangan 3</item>
+        <item>Ruangan 4</item>
+        <item>Ruangan 5</item>
+    </string-array>
+</resources>
